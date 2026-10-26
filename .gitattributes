@@ -1,0 +1,4 @@
+# scripts run under bash/python on Linux, macOS and WSL — keep LF everywhere
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
