@@ -1,0 +1,9 @@
+# extracted OTA content and downloads — never commit these
+scripts/stock/
+scripts/bin/
+scripts/work/
+*.zip
+*.img
+*.bin
+*.log
+.DS_Store
